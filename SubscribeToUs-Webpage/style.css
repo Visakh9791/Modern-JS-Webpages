@@ -1,0 +1,23 @@
+
+.image {
+    height: 130px;
+    width: 90vw;
+}
+
+.formContainer {
+    padding: 30px;
+    background-color: white;
+}
+
+.main-container {
+    background-color: skyblue;
+    padding: 20px;
+}
+
+.button {
+    text-align: center;
+}
+
+.p {
+    color: red;
+}
